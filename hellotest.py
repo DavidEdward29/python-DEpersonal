@@ -1,3 +1,5 @@
+#learn python with a import function
+###############################################
 # os function to allow clear command on Gitbash
 import os
 os.system ('clear')
